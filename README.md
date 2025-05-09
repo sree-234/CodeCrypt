@@ -232,11 +232,4 @@ This was Developed by
 
 We're constantly striving to improve CodeCrypt to provide the best possible experience for our users. If you have any feedback, or suggestions, or encounter any issues while using our platform, please don't hesitate to contact us. Your input is invaluable in helping us enhance our product and deliver exceptional results.
 
-## **📧 Contact Us**
 
-If you have any questions, concerns, or inquiries regarding CodeCrypt, please contact us at [aaronthomas232200@gmail.com](mailto:aaronthomas232200@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aaron-thomas-blessen-390200214/) or [Twitter](https://twitter.com/aaron_blessen). We're here to assist you and ensure that your cryptographic experience is smooth and educational.
-
-Thank you for choosing CodeCrypt. We hope you enjoy exploring and learning about cryptography! 
-
-
-**Happy Hacking!**
